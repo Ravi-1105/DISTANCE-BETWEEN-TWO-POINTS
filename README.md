@@ -32,4 +32,4 @@ print("{:.2f}".format(d))
 
 
 ### RESULT:
-Thus the distance between two points have brrn found
+Thus the distance between two points have been found
