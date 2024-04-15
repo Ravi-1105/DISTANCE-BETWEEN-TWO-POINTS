@@ -10,10 +10,22 @@ Substitute the values in the distance formula  ![formula](/formula.JPG)
 ### Step 4: 
 ### Step 5: 
 ### PROGRAM:
-  
+```
+#Program to circulate n values.
+#Developed by: RAVIVARMAN G S
+#RegisterNumber: 212223100044
+import math
+x_1,y_1=10,6
+x_2,y_2=4,2
 
+d=(((x_2-x_1)**2+(y_2-y_1)**2))**0.5
+print("{:.2f}".format(d))
+```
 
 ### OUTPUT:
+![image](https://github.com/ArchanaSharikalHarinarayanan/DISTANCE-BETWEEN-TWO-POINTS/assets/139841688/2f1f57b7-84da-4a5b-ace6-56db604bb9a4)
+![image](https://github.com/ArchanaSharikalHarinarayanan/DISTANCE-BETWEEN-TWO-POINTS/assets/139841688/1030db37-5a9c-4e9c-8f39-459fa86f7eac)
 
 
 ### RESULT:
+Thus the distance between two points have brrn found
